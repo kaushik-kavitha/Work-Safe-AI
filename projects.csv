@@ -1,0 +1,7 @@
+Project_ID,Project_Name,Location,Project_Type,Start_Date,Budget,End_Date
+P001,Project 1,Lucknow,Residential,06-06-2025,108409749,23-12-2026
+P002,Project 2,Kanpur,Residential,04-02-2026,159199233,10-02-2027
+P003,Project 3,Pune,Infrastructure,23-01-2026,168171095,24-04-2027
+P004,Project 4,Delhi,Commercial,08-05-2025,105652971,13-04-2026
+P005,Project 5,Gurugram,Infrastructure,02-12-2025,24521373,02-09-2027
+P006,Project 6,Noida,Infrastructure,23-12-2025,126683173,30-04-2027

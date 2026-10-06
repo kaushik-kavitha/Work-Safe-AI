@@ -1,0 +1,10 @@
+Activity_ID,Activity_Name,Activity_Type,Difficulty_Level
+A01,Excavation,Sitework,2
+A02,Foundation,Structural,3
+A03,Structural Work,Structural,4
+A04,Masonry,Structural,3
+A05,Electrical,MEP,4
+A06,Plumbing,MEP,3
+A07,Flooring,Finishing,2
+A08,Painting,Finishing,1
+A09,Finishing,Finishing,2
